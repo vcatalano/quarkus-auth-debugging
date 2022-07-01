@@ -1,0 +1,1 @@
+# Simple Quarkus app for auth debugging
